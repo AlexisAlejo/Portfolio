@@ -9,15 +9,16 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "autoprefixer": "^10.4.16",
     "next": "latest",
+    "postcss": "^8.4.31",
     "react": "latest",
     "react-dom": "latest",
-    "typescript": "latest",
-    "tailwindcss": "latest",
-    "postcss": "latest",
-    "autoprefixer": "latest"
+    "tailwindcss": "^3.3.0",
+    "typescript": "latest"
   },
   "devDependencies": {
+    "@types/node": "24.10.0",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",

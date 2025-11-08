@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[6657,["/_next/static/chunks/fe47f08dc1d33529.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"hlpyOPqfqd-HVZGYsVxNc","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","h1",null,{"children":"Contact Me"}],["$","p",null,{"children":"If you have any questions or would like to get in touch, feel free to reach out!"}],["$","form",null,{"children":[["$","div",null,{"children":[["$","label",null,{"htmlFor":"name","children":"Name:"}],["$","input",null,{"type":"text","id":"name","name":"name","required":true}]]}],["$","div",null,{"children":[["$","label",null,{"htmlFor":"email","children":"Email:"}],["$","input",null,{"type":"email","id":"email","name":"email","required":true}]]}],["$","div",null,{"children":[["$","label",null,{"htmlFor":"message","children":"Message:"}],["$","textarea",null,{"id":"message","name":"message","required":true}]]}],["$","button",null,{"type":"submit","children":"Send"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
