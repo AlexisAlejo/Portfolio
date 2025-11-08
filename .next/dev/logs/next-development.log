@@ -1,3 +1,9 @@
-[00:00:04.195] Server  LOG      ✓ Ready in 2.9s
-[00:00:12.890] Server  LOG      ○ Compiling / ...
-[00:01:32.834] Server  LOG      ✓ Compiled in 482ms
+[00:00:09.139] Server  LOG      ✓ Ready in 7.1s
+[00:00:14.481] Server  LOG      ○ Compiling / ...
+[00:02:14.482] Server  LOG      ✓ Compiled in 240ms
+[00:02:15.251] Server  ERROR    ⨯ ReferenceError: Layout is not defined
+[00:02:18.927] Server  LOG      ✓ Compiled in 190ms
+[00:02:43.084] Server  LOG      ✓ Compiled in 238ms
+[00:03:55.800] Server  LOG      ✓ Compiled in 1125ms
+[00:03:58.921] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[00:08:25.068] Server  LOG      ✓ Compiled in 1380ms
