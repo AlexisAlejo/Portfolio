@@ -1,0 +1,28 @@
+import React from 'react';
+
+const Footer: React.FC = () => {
+    return (
+        <footer className="border-t bg-transparent py-8">
+            <div className="container mx-auto px-6 text-center text-sm text-gray-600">
+                <div className="flex items-center justify-center gap-4 mb-3">
+                    <a href="https://github.com/" aria-label="GitHub" className="text-gray-500 hover:text-gray-900 transition-colors">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                            <path d="M12 .5C5.73.5.75 5.48.75 11.74c0 4.9 3.18 9.06 7.59 10.52.56.1.77-.24.77-.54 0-.27-.01-1-.02-1.95-3.09.67-3.75-1.49-3.75-1.49-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.69.08-.69 1.13.08 1.72 1.16 1.72 1.16 1 .17 1.54.99 1.54.99.99 1.7 2.6 1.21 3.24.93.1-.73.38-1.21.69-1.49-2.47-.28-5.06-1.24-5.06-5.52 0-1.22.44-2.21 1.16-2.99-.12-.28-.5-1.41.11-2.94 0 0 .95-.3 3.12 1.14.9-.25 1.87-.38 2.83-.39.96.01 1.93.14 2.83.39 2.17-1.44 3.12-1.14 3.12-1.14.61 1.53.23 2.66.11 2.94.72.78 1.16 1.77 1.16 2.99 0 4.29-2.6 5.23-5.07 5.51.39.34.73 1.02.73 2.06 0 1.48-.01 2.68-.01 3.04 0 .3.21.64.78.53C20.07 20.8 23.25 16.64 23.25 11.74 23.25 5.48 18.27.5 12 .5z" />
+                        </svg>
+                    </a>
+                    <a href="https://twitter.com/" aria-label="Twitter" className="text-gray-500 hover:text-sky-500 transition-colors">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+                            <path d="M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.88-2.37 8.6 8.6 0 0 1-2.72 1.04 4.28 4.28 0 0 0-7.3 3.9A12.13 12.13 0 0 1 3.16 4.6a4.27 4.27 0 0 0 1.33 5.72 4.22 4.22 0 0 1-1.94-.54v.05a4.28 4.28 0 0 0 3.43 4.2c-.48.13-.98.2-1.5.2-.37 0-.74-.04-1.1-.1a4.28 4.28 0 0 0 4 2.97A8.58 8.58 0 0 1 2 19.54a12.11 12.11 0 0 0 6.56 1.92c7.88 0 12.2-6.53 12.2-12.19 0-.19-.01-.39-.02-.58A8.64 8.64 0 0 0 22.46 6z" />
+                        </svg>
+                    </a>
+                </div>
+
+                <div>
+                    <p>&copy; {new Date().getFullYear()} Your Name. Built with care.</p>
+                </div>
+            </div>
+        </footer>
+    );
+};
+
+export default Footer;
