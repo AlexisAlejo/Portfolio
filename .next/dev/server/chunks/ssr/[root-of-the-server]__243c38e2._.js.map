@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alaba/nextjs-portfolio/app/about/page.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nconst AboutPage: React.FC = () => {\r\n    return (\r\n        <div>\r\n            <h1>About Me</h1>\r\n            <p>\r\n                Welcome to my portfolio! I am a passionate developer with experience in building web applications using modern technologies.\r\n            </p>\r\n            <p>\r\n                My journey in tech started with a fascination for coding and problem-solving. Over the years, I have honed my skills in various programming languages and frameworks.\r\n            </p>\r\n            <p>\r\n                I enjoy collaborating on projects, learning new technologies, and continuously improving my craft. In this portfolio, you will find some of my work and projects that I am proud of.\r\n            </p>\r\n        </div>\r\n    );\r\n};\r\n\r\nexport default AboutPage;"],"names":[],"mappings":";;;;;;AAEA,MAAM,YAAsB;IACxB,qBACI,qQAAC;;0BACG,qQAAC;0BAAG;;;;;;0BACJ,qQAAC;0BAAE;;;;;;0BAGH,qQAAC;0BAAE;;;;;;0BAGH,qQAAC;0BAAE;;;;;;;;;;;;AAKf;uCAEe","debugId":null}}]
+}
